@@ -3,8 +3,8 @@
 ## <b>Grupo - NextStep</b>
 <table>
     <tr>
-        <th>Nome<th>
-        <th>RM<th>
+        <th>Nome</th>
+        <th>RM</th>
     </tr>
     <tr>
         <td>Celso Lorensatto da Silva Filho</td>
